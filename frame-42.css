@@ -1,0 +1,107 @@
+.frame-child24 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1382px;
+  height: 1566px;
+}
+.frame-child25,
+.frame-child26 {
+  position: absolute;
+  top: 1807px;
+  height: 192px;
+}
+.frame-child25 {
+  left: 76px;
+  background-color: var(--color-gainsboro);
+  width: 839px;
+}
+.frame-child26 {
+  left: 1046px;
+}
+.frame-child26,
+.frame-child27,
+.frame-child28,
+.frame-child29 {
+  background-color: var(--color-gainsboro);
+  width: 839px;
+}
+.frame-child27 {
+  position: absolute;
+  top: 1807px;
+  left: 2016px;
+  height: 192px;
+}
+.frame-child28,
+.frame-child29 {
+  top: 1999px;
+  height: 676px;
+}
+.frame-child28 {
+  position: absolute;
+  left: 76px;
+  border-radius: var(--br-206xl);
+}
+.frame-child29 {
+  left: 1046px;
+}
+.frame-child29,
+.frame-child30,
+.frame-child31 {
+  position: absolute;
+  border-radius: var(--br-206xl);
+}
+.frame-child30 {
+  top: 1999px;
+  left: 2016px;
+  background-color: var(--color-gainsboro);
+  width: 839px;
+  height: 676px;
+}
+.frame-child31 {
+  top: 394px;
+  left: 27px;
+  width: 1273px;
+  height: 708px;
+}
+.state {
+  margin: 0;
+}
+.state-traits-temperature-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.state-traits-temperature-container {
+  position: absolute;
+  top: 449px;
+  left: 88px;
+  text-transform: lowercase;
+  display: flex;
+  align-items: center;
+  width: 1212px;
+  height: 632px;
+}
+.here-are-the {
+  position: absolute;
+  top: 210px;
+  left: 54px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-white);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1273px;
+  height: 160px;
+}
+.vector-parent {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1222px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-actor);
+}

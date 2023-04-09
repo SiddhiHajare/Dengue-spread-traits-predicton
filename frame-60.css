@@ -1,0 +1,1108 @@
+.frame-child21,
+.frame-child22 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #45b8f9;
+  width: 1660px;
+  height: 2151px;
+}
+.frame-child22 {
+  top: -59px;
+  left: -5px;
+  background-color: #2a456e;
+  width: 1586px;
+  height: 2079px;
+}
+.frame-child23,
+.states {
+  position: absolute;
+  top: 23px;
+  left: 379px;
+  width: 610px;
+  height: 212px;
+}
+.states {
+  top: 60px;
+  left: 427px;
+  text-transform: lowercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 514px;
+  height: 137px;
+}
+.property-1default-child {
+  top: 1041px;
+  left: 72px;
+}
+.property-1default-child,
+.property-1default-inner,
+.property-1default-item {
+  position: absolute;
+  background-color: var(--color-white);
+  width: 310px;
+  height: 86px;
+}
+.property-1default-item {
+  border: 0;
+  top: 1041px;
+  left: 885px;
+}
+.property-1default-inner {
+  top: 192px;
+  left: 72px;
+}
+.property-1default-child1 {
+  position: absolute;
+  top: 66px;
+  left: 72px;
+  background-color: #f9faff;
+  width: 310px;
+  height: 86px;
+  mix-blend-mode: color-dodge;
+}
+.property-1default-child2,
+.property-1default-child3,
+.property-1default-child4 {
+  position: absolute;
+  top: 192px;
+  left: 897px;
+  background-color: var(--color-white);
+  width: 310px;
+  height: 86px;
+}
+.property-1default-child3,
+.property-1default-child4 {
+  border: 0;
+  left: 491px;
+}
+.property-1default-child4 {
+  top: 67px;
+  left: 489px;
+}
+.property-1default-child5,
+.property-1default-child6,
+.property-1default-child7 {
+  position: absolute;
+  top: 464px;
+  left: 74px;
+  background-color: var(--color-white);
+  width: 310px;
+  height: 86px;
+}
+.property-1default-child6,
+.property-1default-child7 {
+  top: 320px;
+  left: 896px;
+}
+.property-1default-child7 {
+  top: 67px;
+  left: 897px;
+}
+.property-1default-child10,
+.property-1default-child8,
+.property-1default-child9 {
+  position: absolute;
+  top: 464px;
+  left: 489px;
+  background-color: var(--color-white);
+  width: 310px;
+  height: 86px;
+}
+.property-1default-child10,
+.property-1default-child9 {
+  top: 322px;
+  left: 491px;
+}
+.property-1default-child10 {
+  left: 74px;
+}
+.property-1default-child11,
+.property-1default-child12,
+.property-1default-child13 {
+  position: absolute;
+  top: 748px;
+  left: 484px;
+  background-color: var(--color-white);
+  width: 310px;
+  height: 86px;
+}
+.property-1default-child12,
+.property-1default-child13 {
+  top: 464px;
+  left: 896px;
+}
+.property-1default-child13 {
+  top: 610px;
+}
+.property-1default-child14 {
+  top: 610px;
+  left: 484px;
+}
+.property-1default-child14,
+.property-1default-child15,
+.property-1default-child16 {
+  position: absolute;
+  background-color: var(--color-white);
+  width: 310px;
+  height: 86px;
+}
+.property-1default-child15 {
+  border: 0;
+  top: 751px;
+  left: 72px;
+}
+.property-1default-child16 {
+  top: 610px;
+  left: 74px;
+}
+.property-1default-child17,
+.property-1default-child18,
+.property-1default-child19 {
+  position: absolute;
+  top: 748px;
+  left: 892px;
+  background-color: var(--color-white);
+  width: 310px;
+  height: 86px;
+}
+.property-1default-child18,
+.property-1default-child19 {
+  top: 898px;
+  left: 74px;
+}
+.property-1default-child19 {
+  border: 0;
+  top: 1193px;
+  left: 484px;
+}
+.property-1default-child20,
+.property-1default-child21,
+.property-1default-child22 {
+  position: absolute;
+  left: 481px;
+  background-color: var(--color-white);
+  width: 310px;
+  height: 86px;
+}
+.property-1default-child20 {
+  border: 0;
+  top: 1042px;
+}
+.property-1default-child21,
+.property-1default-child22 {
+  top: 898px;
+}
+.property-1default-child22 {
+  top: 1187px;
+  left: 885px;
+}
+.property-1default-child23,
+.property-1default-child24,
+.property-1default-child25 {
+  position: absolute;
+  top: 1193px;
+  left: 74px;
+  background-color: var(--color-white);
+  width: 310px;
+  height: 86px;
+}
+.property-1default-child24,
+.property-1default-child25 {
+  top: 898px;
+  left: 892px;
+}
+.property-1default-child25 {
+  border: 0;
+  top: 1347px;
+  left: 484px;
+}
+.arunachal-pradesh {
+  position: absolute;
+  top: 177px;
+  left: 81px;
+  font-size: var(--font-size-16xl);
+  text-transform: capitalize;
+  font-weight: 300;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 368px;
+  height: 120px;
+  cursor: pointer;
+}
+.assam {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 301px;
+  left: 49px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-noto-sans-jp);
+  color: var(--color-black);
+  text-align: center;
+  justify-content: center;
+  width: 376px;
+  height: 123px;
+}
+.assam,
+.bihar,
+.chattisgarh {
+  cursor: pointer;
+  position: absolute;
+  text-transform: capitalize;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+}
+.bihar {
+  top: 450px;
+  left: 47px;
+  justify-content: center;
+  width: 372px;
+  height: 113px;
+}
+.chattisgarh {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 589px;
+  left: 45px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-noto-sans-jp);
+  color: var(--color-black);
+  text-align: center;
+  width: 376px;
+  height: 115px;
+}
+.chattisgarh,
+.goa,
+.gujarat {
+  justify-content: center;
+}
+.goa {
+  position: absolute;
+  top: 730px;
+  left: 34px;
+  text-transform: capitalize;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  width: 385px;
+  height: 121px;
+  cursor: pointer;
+}
+.gujarat {
+  top: 874px;
+  left: 45px;
+  width: 372px;
+  height: 130px;
+}
+.gujarat,
+.haryana,
+.himachal-pradesh {
+  position: absolute;
+  text-transform: capitalize;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+.haryana {
+  top: 1019px;
+  left: 41px;
+  justify-content: center;
+  width: 372px;
+  height: 124px;
+}
+.himachal-pradesh {
+  top: 1172px;
+  left: 81px;
+  font-size: var(--font-size-16xl);
+  text-align: left;
+  width: 364px;
+  height: 115px;
+}
+.jharkhand,
+.karnataka,
+.kerala,
+.madhya-pradesh,
+.maharashtra,
+.manipur,
+.meghalaya,
+.mizoram {
+  position: absolute;
+  top: 50px;
+  left: 449px;
+  text-transform: capitalize;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 374px;
+  height: 118px;
+  cursor: pointer;
+}
+.karnataka,
+.kerala,
+.madhya-pradesh,
+.maharashtra,
+.manipur,
+.meghalaya,
+.mizoram {
+  top: 181px;
+  left: 467px;
+  width: 357px;
+  height: 107px;
+}
+.kerala,
+.madhya-pradesh,
+.maharashtra,
+.manipur,
+.meghalaya,
+.mizoram {
+  top: 305px;
+  left: 459px;
+  width: 374px;
+  height: 119px;
+}
+.madhya-pradesh,
+.maharashtra,
+.manipur,
+.meghalaya,
+.mizoram {
+  top: 450px;
+  left: 460px;
+  width: 370px;
+  height: 109px;
+}
+.maharashtra,
+.manipur,
+.meghalaya,
+.mizoram {
+  top: 599px;
+  left: 449px;
+  width: 374px;
+  height: 111px;
+}
+.manipur,
+.meghalaya,
+.mizoram {
+  top: 725px;
+  left: 456px;
+  height: 126px;
+}
+.meghalaya,
+.mizoram {
+  top: 883px;
+  left: 449px;
+  width: 387px;
+  height: 111px;
+}
+.mizoram {
+  top: 1027px;
+  left: 446px;
+  height: 116px;
+}
+.andhra-pradesh,
+.nagaland,
+.odisha,
+.punjab,
+.rajasthan,
+.sikkim,
+.tamil-nadu,
+.telangana,
+.tripura,
+.uttar-pradesh,
+.uttarakhand,
+.west-bengal {
+  position: absolute;
+  top: 1176px;
+  left: 445px;
+  text-transform: capitalize;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 375px;
+  height: 107px;
+  cursor: pointer;
+}
+.andhra-pradesh,
+.odisha,
+.punjab,
+.rajasthan,
+.sikkim,
+.tamil-nadu,
+.telangana,
+.tripura,
+.uttar-pradesh,
+.uttarakhand,
+.west-bengal {
+  top: 51px;
+  left: 856px;
+  width: 391px;
+  height: 118px;
+}
+.andhra-pradesh,
+.punjab,
+.rajasthan,
+.sikkim,
+.tamil-nadu,
+.telangana,
+.tripura,
+.uttar-pradesh,
+.uttarakhand,
+.west-bengal {
+  top: 177px;
+  left: 865px;
+  width: 373px;
+  height: 115px;
+}
+.andhra-pradesh,
+.rajasthan,
+.sikkim,
+.tamil-nadu,
+.telangana,
+.tripura,
+.uttar-pradesh,
+.uttarakhand,
+.west-bengal {
+  top: 308px;
+  width: 371px;
+  height: 110px;
+}
+.andhra-pradesh,
+.sikkim,
+.tamil-nadu,
+.telangana,
+.tripura,
+.uttar-pradesh,
+.uttarakhand,
+.west-bengal {
+  top: 446px;
+  left: 856px;
+  width: 381px;
+  height: 117px;
+}
+.andhra-pradesh,
+.tamil-nadu,
+.telangana,
+.tripura,
+.uttar-pradesh,
+.uttarakhand,
+.west-bengal {
+  top: 589px;
+  left: 860px;
+  width: 383px;
+  height: 127px;
+}
+.andhra-pradesh,
+.telangana,
+.tripura,
+.uttar-pradesh,
+.uttarakhand,
+.west-bengal {
+  top: 731px;
+  left: 852px;
+  width: 375px;
+  height: 113px;
+}
+.andhra-pradesh,
+.tripura,
+.uttar-pradesh,
+.uttarakhand,
+.west-bengal {
+  top: 876px;
+  width: 386px;
+  height: 126px;
+}
+.andhra-pradesh,
+.uttar-pradesh,
+.uttarakhand,
+.west-bengal {
+  top: 1027px;
+  width: 369px;
+  height: 113px;
+}
+.andhra-pradesh,
+.uttar-pradesh,
+.west-bengal {
+  top: 1173px;
+  left: 856px;
+  width: 389px;
+}
+.andhra-pradesh,
+.west-bengal {
+  top: 1317px;
+  left: 449px;
+  width: 375px;
+  height: 125px;
+}
+.andhra-pradesh {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 61px;
+  left: 84px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-noto-sans-jp);
+  color: var(--color-black);
+  text-align: center;
+  width: 289px;
+  height: 98px;
+  mix-blend-mode: darken;
+}
+.property-1default {
+  position: absolute;
+  top: -11px;
+  left: 0;
+  width: 1348px;
+  height: 1705px;
+  overflow: hidden;
+}
+.property-1variant2-child {
+  top: 1235px;
+  left: 45px;
+}
+.property-1variant2-child,
+.property-1variant2-inner,
+.property-1variant2-item {
+  position: absolute;
+  background-color: var(--color-white);
+  width: 378px;
+  height: 115px;
+}
+.property-1variant2-item {
+  border: 0;
+  top: 1243px;
+  left: 923px;
+}
+.property-1variant2-inner {
+  top: 212px;
+  left: 45px;
+}
+.property-1variant2-child1 {
+  position: absolute;
+  top: 65px;
+  left: 38px;
+  background-color: #8398e4;
+  width: 310px;
+  height: 86px;
+  mix-blend-mode: color-dodge;
+}
+.property-1variant2-child2,
+.property-1variant2-child3,
+.property-1variant2-child4 {
+  position: absolute;
+  top: 214px;
+  left: 929px;
+  background-color: var(--color-white);
+  width: 378px;
+  height: 115px;
+}
+.property-1variant2-child3,
+.property-1variant2-child4 {
+  border: 0;
+  top: 212px;
+  left: 491px;
+}
+.property-1variant2-child4 {
+  top: 44px;
+}
+.property-1variant2-child5,
+.property-1variant2-child6,
+.property-1variant2-child7 {
+  position: absolute;
+  top: 532px;
+  left: 38px;
+  background-color: var(--color-white);
+  width: 378px;
+  height: 115px;
+}
+.property-1variant2-child6,
+.property-1variant2-child7 {
+  top: 378px;
+  left: 929px;
+}
+.property-1variant2-child7 {
+  top: 44px;
+  left: 934px;
+}
+.property-1variant2-child10,
+.property-1variant2-child8,
+.property-1variant2-child9 {
+  position: absolute;
+  top: 539px;
+  left: 491px;
+  background-color: var(--color-white);
+  width: 378px;
+  height: 115px;
+}
+.property-1variant2-child10,
+.property-1variant2-child9 {
+  top: 369px;
+}
+.property-1variant2-child10 {
+  left: 45px;
+}
+.property-1variant2-child11,
+.property-1variant2-child12,
+.property-1variant2-child13 {
+  position: absolute;
+  top: 897px;
+  left: 486px;
+  background-color: var(--color-white);
+  width: 378px;
+  height: 115px;
+}
+.property-1variant2-child12,
+.property-1variant2-child13 {
+  top: 539px;
+  left: 931px;
+}
+.property-1variant2-child13 {
+  top: 713px;
+  left: 925px;
+}
+.property-1variant2-child14 {
+  top: 713px;
+  left: 487px;
+}
+.property-1variant2-child14,
+.property-1variant2-child15,
+.property-1variant2-child16 {
+  position: absolute;
+  background-color: var(--color-white);
+  width: 378px;
+  height: 115px;
+}
+.property-1variant2-child15 {
+  border: 0;
+  top: 897px;
+  left: 42px;
+}
+.property-1variant2-child16 {
+  top: 713px;
+  left: 45px;
+}
+.property-1variant2-child17,
+.property-1variant2-child18,
+.property-1variant2-child19 {
+  position: absolute;
+  top: 892px;
+  left: 923px;
+  background-color: var(--color-white);
+  width: 378px;
+  height: 115px;
+}
+.property-1variant2-child18,
+.property-1variant2-child19 {
+  top: 1071px;
+  left: 45px;
+}
+.property-1variant2-child19 {
+  border: 0;
+  top: 1407px;
+  left: 479px;
+}
+.property-1variant2-child20,
+.property-1variant2-child21,
+.property-1variant2-child22 {
+  position: absolute;
+  left: 484px;
+  background-color: var(--color-white);
+  width: 378px;
+  height: 115px;
+}
+.property-1variant2-child20 {
+  border: 0;
+  top: 1237px;
+}
+.property-1variant2-child21,
+.property-1variant2-child22 {
+  top: 1080px;
+}
+.property-1variant2-child22 {
+  top: 1399px;
+  left: 920px;
+}
+.property-1variant2-child23,
+.property-1variant2-child24,
+.property-1variant2-child25 {
+  position: absolute;
+  top: 1410px;
+  left: 45px;
+  background-color: var(--color-white);
+  width: 378px;
+  height: 115px;
+}
+.property-1variant2-child24,
+.property-1variant2-child25 {
+  top: 1072px;
+  left: 923px;
+}
+.property-1variant2-child25 {
+  border: 0;
+  top: 1594px;
+  left: 479px;
+}
+.arunachal-pradesh1 {
+  position: absolute;
+  top: 212px;
+  left: 61px;
+  text-transform: capitalize;
+  font-weight: 300;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 368px;
+  height: 120px;
+}
+.assam1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 361px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-noto-sans-jp);
+  color: var(--color-black);
+  text-align: center;
+  justify-content: center;
+  width: 376px;
+  height: 123px;
+}
+.assam1,
+.bihar1,
+.chattisgarh1 {
+  position: absolute;
+  left: 47px;
+  text-transform: capitalize;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+}
+.bihar1 {
+  top: 537px;
+  justify-content: center;
+  width: 372px;
+  height: 113px;
+}
+.chattisgarh1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 713px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-noto-sans-jp);
+  color: var(--color-black);
+  text-align: center;
+  width: 376px;
+  height: 115px;
+}
+.chattisgarh1,
+.goa1,
+.gujarat1 {
+  justify-content: center;
+}
+.goa1 {
+  position: absolute;
+  top: 897px;
+  left: 34px;
+  text-transform: capitalize;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  width: 385px;
+  height: 121px;
+}
+.gujarat1 {
+  top: 1056px;
+  left: 51px;
+  width: 372px;
+  height: 130px;
+}
+.gujarat1,
+.haryana1,
+.himachal-pradesh1 {
+  position: absolute;
+  text-transform: capitalize;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+}
+.haryana1 {
+  top: 1226px;
+  left: 51px;
+  justify-content: center;
+  width: 372px;
+  height: 124px;
+}
+.himachal-pradesh1 {
+  top: 1407px;
+  left: 62px;
+  text-align: left;
+  width: 364px;
+  height: 115px;
+}
+.jharkhand1,
+.karnataka1,
+.kerala1,
+.madhya-pradesh1,
+.maharashtra1,
+.manipur1,
+.meghalaya1,
+.mizoram1,
+.nagaland1,
+.odisha1,
+.punjab1 {
+  position: absolute;
+  top: 36px;
+  left: 481px;
+  text-transform: capitalize;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 374px;
+  height: 118px;
+}
+.karnataka1,
+.kerala1,
+.madhya-pradesh1,
+.maharashtra1,
+.manipur1,
+.meghalaya1,
+.mizoram1,
+.nagaland1,
+.odisha1,
+.punjab1 {
+  top: 214px;
+  left: 489px;
+  width: 357px;
+  height: 107px;
+}
+.kerala1,
+.madhya-pradesh1,
+.maharashtra1,
+.manipur1,
+.meghalaya1,
+.mizoram1,
+.nagaland1,
+.odisha1,
+.punjab1 {
+  top: 365px;
+  left: 496px;
+  width: 374px;
+  height: 119px;
+}
+.madhya-pradesh1,
+.maharashtra1,
+.manipur1,
+.meghalaya1,
+.mizoram1,
+.nagaland1,
+.odisha1,
+.punjab1 {
+  top: 542px;
+  left: 491px;
+  width: 370px;
+  height: 109px;
+}
+.maharashtra1,
+.manipur1,
+.meghalaya1,
+.mizoram1,
+.nagaland1,
+.odisha1,
+.punjab1 {
+  top: 722px;
+  left: 496px;
+  width: 374px;
+  height: 111px;
+}
+.manipur1,
+.meghalaya1,
+.mizoram1,
+.nagaland1,
+.odisha1,
+.punjab1 {
+  top: 891px;
+  left: 490px;
+  height: 126px;
+}
+.meghalaya1,
+.mizoram1,
+.nagaland1,
+.odisha1,
+.punjab1 {
+  top: 1076px;
+  left: 474px;
+  width: 387px;
+  height: 111px;
+}
+.mizoram1,
+.nagaland1,
+.odisha1,
+.punjab1 {
+  top: 1235px;
+  left: 490px;
+  height: 116px;
+}
+.nagaland1,
+.odisha1,
+.punjab1 {
+  top: 1407px;
+  left: 477px;
+  width: 375px;
+  height: 107px;
+}
+.odisha1,
+.punjab1 {
+  top: 33px;
+  left: 923px;
+  width: 391px;
+  height: 118px;
+}
+.punjab1 {
+  top: 214px;
+  width: 373px;
+  height: 115px;
+}
+.andhra-pradesh1,
+.rajasthan1,
+.sikkim1,
+.tamil-nadu1,
+.telangana1,
+.tripura1,
+.uttar-pradesh1,
+.uttarakhand1,
+.west-bengal1 {
+  position: absolute;
+  top: 379px;
+  left: 932px;
+  text-transform: capitalize;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 371px;
+  height: 110px;
+}
+.andhra-pradesh1,
+.sikkim1,
+.tamil-nadu1,
+.telangana1,
+.tripura1,
+.uttar-pradesh1,
+.uttarakhand1,
+.west-bengal1 {
+  top: 539px;
+  left: 921px;
+  width: 381px;
+  height: 117px;
+}
+.andhra-pradesh1,
+.tamil-nadu1,
+.telangana1,
+.tripura1,
+.uttar-pradesh1,
+.uttarakhand1,
+.west-bengal1 {
+  top: 708px;
+  left: 931px;
+  width: 383px;
+  height: 127px;
+}
+.andhra-pradesh1,
+.telangana1,
+.tripura1,
+.uttar-pradesh1,
+.uttarakhand1,
+.west-bengal1 {
+  top: 894px;
+  width: 375px;
+  height: 113px;
+}
+.andhra-pradesh1,
+.tripura1,
+.uttar-pradesh1,
+.uttarakhand1,
+.west-bengal1 {
+  top: 1066px;
+  left: 912px;
+  width: 386px;
+  height: 126px;
+}
+.andhra-pradesh1,
+.uttar-pradesh1,
+.uttarakhand1,
+.west-bengal1 {
+  top: 1235px;
+  left: 927px;
+  width: 369px;
+  height: 113px;
+}
+.andhra-pradesh1,
+.uttar-pradesh1,
+.west-bengal1 {
+  top: 1396px;
+  left: 912px;
+  width: 389px;
+}
+.andhra-pradesh1,
+.west-bengal1 {
+  top: 1580px;
+  left: 477px;
+  width: 375px;
+  height: 125px;
+}
+.andhra-pradesh1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 61px;
+  left: 51px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-noto-sans-jp);
+  color: var(--color-black);
+  text-align: center;
+  width: 289px;
+  height: 98px;
+  mix-blend-mode: darken;
+}
+.property-1default-parent,
+.property-1variant2 {
+  position: absolute;
+  top: 1745px;
+  left: 20px;
+  width: 1348px;
+  height: 1705px;
+  overflow: hidden;
+}
+.property-1default-parent {
+  top: 254px;
+  left: 38px;
+  border-radius: 5px;
+  border: 1px dashed #9747ff;
+  box-sizing: border-box;
+  width: 1286px;
+  height: 1488px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-noto-sans-jp);
+}
+.rectangle-root {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1785px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 80px;
+  color: var(--color-black);
+  font-family: var(--font-mate-sc);
+}
